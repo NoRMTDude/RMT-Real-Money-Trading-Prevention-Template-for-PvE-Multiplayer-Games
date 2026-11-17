@@ -32,7 +32,6 @@ Since anyone can get anything whenever they want, there is nothing left to sell.
 - Anything obtainable only from drops or limited-time events brings scarcity back, and RMT with it. Everything must also be buyable in the shop, and event items must stay buyable after the event ends.
 - Every update must keep the player's current currency balance. Otherwise players have to re-edit after every patch and may pay someone else to do it.
 - Don't give drops a visible "hand-farmed" mark or any other showable proof of luck or effort. Anything that can be screenshotted and compared becomes a flex item, and flex items can be sold.
-- Keep any collection progress private and number-only.
 
 ## Scope
 
