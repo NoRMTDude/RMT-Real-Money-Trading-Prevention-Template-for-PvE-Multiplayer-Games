@@ -46,8 +46,7 @@ Since anyone can get anything whenever they want, there is nothing left to sell.
 
 ## Not solved by this template
 
-Scams against new players, repackaged copies, and malware-bundled "trainers" are not RMT, so this template doesn't address them. Clear messaging in the game and on the official page helps.
-
+Scams against new players, repackaged copies, and malware-bundled "trainers" are not RMT, so this template doesn't fully address them. Clear messaging in the game and on the official page helps. One way to do it: on first login, show a big notice (for example: everything is available in the shop, currency can be edited, and paying real money for items or currency is a scam), and make players hold a button for 10 seconds to confirm they've seen it. Add a "don't show again" checkbox for players who already know.
 ## Contributing
 
 Ideas, loopholes, and example implementations (Node.js, Unity + Mirror, Godot, etc.) are welcome. Open an issue or a pull request.
