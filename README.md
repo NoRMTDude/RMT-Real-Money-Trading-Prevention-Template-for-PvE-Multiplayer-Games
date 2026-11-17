@@ -12,7 +12,7 @@ Instead of making RMT harder to do, this template makes it pointless: every item
 
 ## The problem
 
-RMT, boosting, and "I'll farm it for you" services only make money when items are scarce and hard to get. Trying to stop sellers is a never-ending fight. Raising the cost (for example, to account trading) doesn't help either: sellers just farm on the buyers' accounts, and server load doesn't go down.
+RMT, boosting, and "I'll farm it for you" services only make money when items are scarce and hard to get. Trying to stop sellers is a never-ending fight. So is trying to stop cheats and bots, or handling ban appeals from people giving Oscar-worthy performances. It all wastes a developer's time and energy. Raising the cost (for example, to account trading) doesn't help either: sellers just farm on the buyers' accounts, and server load doesn't go down.
 
 ## The idea
 
