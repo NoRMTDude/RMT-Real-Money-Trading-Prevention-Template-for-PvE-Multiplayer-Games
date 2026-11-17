@@ -1,4 +1,4 @@
-RMT-Real-Money-Trading-Prevention-Template-for-PvE-Multiplayer-Games
+# RMT-Real-Money-Trading-Prevention-Template-for-PvE-Multiplayer-Games
 
 A design template for co-op/PvE multiplayer games that completely avoids RMT (real-money trading), while still allowing player-to-player trading.
 
