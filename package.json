@@ -1,0 +1,13 @@
+{
+  "name": "anti-rmt-pve-trading-template",
+  "version": "0.1.0",
+  "description": "Minimal PvE multiplayer template: fixed-price shop, editable local currency, player trading.",
+  "license": "MIT",
+  "scripts": {
+    "server": "node src/server.js",
+    "client": "node src/client.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}

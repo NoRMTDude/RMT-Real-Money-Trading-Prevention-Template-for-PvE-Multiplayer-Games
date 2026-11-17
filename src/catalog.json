@@ -1,0 +1,12 @@
+{
+  "items": {
+    "sword_iron": { "name": "Iron Sword", "basePrice": 100 },
+    "helm_iron": { "name": "Iron Helm", "basePrice": 80 },
+    "ring_plain": { "name": "Plain Ring", "basePrice": 50 }
+  },
+  "affixes": {
+    "atk": { "name": "Attack", "pricePerPoint": 10, "min": 1, "max": 20 },
+    "hp": { "name": "Max HP", "pricePerPoint": 2, "min": 1, "max": 100 },
+    "crit": { "name": "Crit Rate %", "pricePerPoint": 15, "min": 1, "max": 30 }
+  }
+}
