@@ -4,10 +4,11 @@ A design template for co-op/PvE multiplayer games that completely avoids RMT (re
 
 Instead of making RMT harder to do, this template makes it pointless: every item can be bought at a fixed price, and the only thing players can freely edit is their locally stored currency.
 
-> **About this template:** The code and docs here were generated with AI. I'm not a programmer. I only have the concept, so please treat this as an idea plus a rough example, not production-ready code. It hasn't been tested at scale.
-> **Free to use:** Anyone is welcome to modify or build on this concept to create better game environments. No need to ask for permission. This is just a concept, and it's completely free.
->
+> **About this template:** The code and docs here were generated with AI. I'm not a programmer. I only have the concept, so please treat this as an idea plus a rough example, not production-ready code. It hasn't been tested at scale, and feedback and fixes are welcome.
+
 > **Why I made this:** More and more solo developers are building multiplayer games with AI, and many get hit by cheats and RMT/boosting services. The result is overloaded servers and limits that make the game worse for people who just want to play, while developers spend their time handling ban appeals from people putting on Oscar-worthy performances. Instead of fighting sellers, this template tries to remove the reason to buy and sell in the first place.
+
+> **Free to use:** Anyone is welcome to modify or build on this concept to create better game environments. No need to ask for permission. This is just a concept, and it's completely free.
 
 ## The problem
 
