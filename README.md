@@ -49,6 +49,8 @@ Since anyone can get anything whenever they want, there is nothing left to sell.
 Scams against new players, repackaged copies, and malware-bundled "trainers" are not RMT, so this template doesn't fully address them. Clear messaging in the game and on the official page helps. One way to do it: on first login, show a big notice (for example: everything is available in the shop, currency can be edited, and paying real money for items or currency is a scam), and make players hold a button for 10 seconds to confirm they've seen it. Add a "don't show again" checkbox for players who already know.
 ## Contributing
 
+This repo only contains the concept and a template generated with AI. I don't know any programming, so I can't review or maintain code. Please feel free to extend the concept in any way that makes game environments better. Forking and building your own version is encouraged, and no permission is needed.
+
 ## License
 
 MIT
